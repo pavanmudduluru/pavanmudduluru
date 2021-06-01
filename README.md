@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavanmudduluru
-//- 👀 I’m interested in ...
+[//]: <> (- 👀 I’m interested in ...)
 - 🌱 I’m currently learning R and pPulumi
-//- 💞️ I’m looking to collaborate on ...
+[//]: <> (- 💞️ I’m looking to collaborate on ...)
 - 📫 How to reach me m.pavan599@gmail.com
 
 <!---
